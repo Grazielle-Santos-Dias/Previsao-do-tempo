@@ -4,4 +4,4 @@
 
 > Foi Feito usando HTML | CSS | JavaScript e consumindo uma API
 
-> Você digita o nome da cidade que gostaria de saber a previsão do tempo atual, e le retorna com a temperatura em graus celcius e a unidade relativa do ar.
+> Você digita o nome da cidade que gostaria de saber a previsão do tempo atual, e ele retorna com a temperatura em graus celcius e a umidade relativa do ar.
